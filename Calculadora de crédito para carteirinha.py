@@ -2,8 +2,8 @@ from math import floor
 from time import sleep
 print('----------Calculadora de Carteirinha-----------')
 print('''Escolha o seu tipo de carteirinha:
-[ 1 ] Carteirinha Estundantil
-[ 2 ] Carteirinha Passe Livre''')
+[ 1 ] Carteirinha Estundantil (R$ 2,25)
+[ 2 ] Carteirinha Passe Livre (R$ 4,50)''')
 op = int(input('Opção: '))
 valor = float(input('Quanto você irá colocar na carteirinha: R$'))
 dias = int(input('Quantos dias a carteirinha deve durá: '))
