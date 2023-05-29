@@ -1,6 +1,6 @@
 from math import floor
 from time import sleep
-print('----------Calculadora de Carteirinha-----------')
+print('-=-=-=-=-=-=-=-=-=-=-=- CALCULADORA DE CARTEIRINHA -=-=-=-=-=-=-=-=-=-=-=-=-')
 print('''Escolha o seu tipo de carteirinha:
 [ 1 ] Carteirinha Estundantil (R$ 2,25)
 [ 2 ] Vale Transporte (R$ 4,50)
