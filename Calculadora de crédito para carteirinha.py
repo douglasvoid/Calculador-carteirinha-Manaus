@@ -6,7 +6,7 @@ print('''Escolha as opções:
 [ 2 ] Vale Transporte (R$ 4.50)
 [ 3 ] Quantas dias acaba a passagem  (OBS: Lembrando que você precisar saber quanto tem no seu vale transporte)
 [ 4 ] Quanto eu preciso recarregar? 
-OBS: Por favor utilize "."(ponto) em véz de ","(vírgula). Obrigado ''')
+OBS: Por favor utilize "."(ponto) em vez de ","(vírgula). Obrigado ''')
 op = int(input('Opção: '))
 
 if op == 1:
